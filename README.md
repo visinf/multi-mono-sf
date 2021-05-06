@@ -7,10 +7,10 @@
 
 This repository is the official PyTorch implementation of the paper:  
 
-&nbsp;&nbsp;&nbsp;**Self-Supervised Multi-Frame Monocular Scene Flow**  
+&nbsp;&nbsp;&nbsp;**[Self-Supervised Multi-Frame Monocular Scene Flow](https://arxiv.org/abs/2105.02216)**  
 &nbsp;&nbsp;&nbsp;[Junhwa Hur](https://hurjunhwa.github.io) and [Stefan Roth](https://www.visinf.tu-darmstadt.de/visinf/team_members/sroth/sroth.en.jsp)  
 &nbsp;&nbsp;&nbsp;*CVPR*, 2021  
-&nbsp;&nbsp;&nbsp;Paper / Supplemental / Arxiv
+&nbsp;&nbsp;&nbsp;[Arxiv](https://arxiv.org/abs/2105.02216)
 
 - Contact: junhwa.hur[at]gmail.com
 
