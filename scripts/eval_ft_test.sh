@@ -2,7 +2,7 @@
 
 # DATASETS_HOME
 DATA_HOME="(KITTI 2015 Scene Flow dataset path)/KITTI_flow"
-CHECKPOINT="checkpoints/checkpoint_kitti_ft.ckpt.ckpt"
+CHECKPOINT="checkpoints/checkpoint_kitti_ft.ckpt"
 
 # model
 MODEL=MonoSceneFlow_Multi
